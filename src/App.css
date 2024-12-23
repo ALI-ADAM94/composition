@@ -1,0 +1,21 @@
+
+.welcome{
+    text-align: center;
+    align-items: center;
+    color: green;
+    width:100%;
+}
+.welcome :hover{
+  border-bottom:5px solid gray;
+}
+.button {
+    border: 3px solid gray;
+    padding: 10px;
+    margin-bottom: 5px;
+  }
+  .group{
+    background-color:rgb(215, 200, 238)
+
+  }
+
+  
